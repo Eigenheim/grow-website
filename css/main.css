@@ -690,6 +690,12 @@ h2 {
     margin-top: 10px
 }
 
+.modal p {
+    color: #22313F;
+    font-size: 20px;
+    font-family: 'Dosis',sans-serif;
+}
+
 .modal .btn-primary:hover {
     background-color: #212020;
     color: #fff
