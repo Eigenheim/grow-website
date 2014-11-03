@@ -654,7 +654,7 @@ h2 {
     background-color: #f7ab24;
 }
 
-.modal-body-signup {
+.modal-body-pg {
     height: 380px;
 }
 
@@ -695,3 +695,9 @@ h2 {
     color: #fff
 }
 
+.modal-header-success {
+    color:#fff;
+    padding:9px 15px;
+    border-bottom:1px solid #eee;
+    background-color: #75B46E;
+}

@@ -11,7 +11,17 @@ jQuery(function($) {'use strict',
 		});
 	
 
-	
+
+    // Success modal show on redirect
+    function showSuccessModal()
+    {
+        if($(location).attr('hash').slice(1) == "success") {
+            $('#success').modal('show');
+        }
+    }
+
+    showSuccessModal();
+
 	//Scroll Menu
 
 	function menuToggle()
