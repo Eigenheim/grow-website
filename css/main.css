@@ -420,9 +420,10 @@ h2 {
 }
 
 .look-item img {
-    height: 50%;
-    width: 50%;
+    height: 30%;
+    width: 30%;
     margin: 0 auto;
+}
 
 
 /**********************************
