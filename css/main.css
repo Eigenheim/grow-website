@@ -430,6 +430,22 @@ h2 {
     margin-bottom: 20px
 }
 
+.look-item h4 {
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 26px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    text-align: center
+}
+
+.look-item p {
+    font-size: 20px;
+    font-family: 'Dosis',sans-serif;
+}
+
 
 /**********************************
 ******PionierGarage mention CSS****
